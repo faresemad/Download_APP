@@ -1,0 +1,54 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>cercile.png</file>
+    <file>down.png</file>
+    <file>face.png</file>
+    <file>facelogo.png</file>
+    <file>feet.png</file>
+    <file>file.png</file>
+    <file>files.png</file>
+    <file>home.png</file>
+    <file>insta.png</file>
+    <file>list.png</file>
+    <file>mgara.png</file>
+    <file>notify.png</file>
+    <file>power.png</file>
+    <file>scorpion.png</file>
+    <file>setting.png</file>
+    <file>youtube.png</file>
+    <file>youtubelist.png</file>
+    <file>youtube2.png</file>
+    <file>youtubes.png</file>
+    <file>youtubelogo.png</file>
+    <file>verified.png</file>
+    <file>instalogo.png</file>
+    <file>downloaded.png</file>
+    <file>browse.png</file>
+    <file>logosetting1.jpg</file>
+    <file>logosetting2.jpg</file>
+    <file>thinkprogrammer.png</file>
+    <file>programmer.png</file>
+    <file>human.png</file>
+    <!-- ========================================= -->
+    <file>../icon/cercile.ico</file>
+    <file>../icon/icon.ico</file>
+    <file>../icon/down.ico</file>
+    <file>../icon/face.ico</file>
+    <file>../icon/feet.ico</file>
+    <file>../icon/file.ico</file>
+    <file>../icon/home.ico</file>
+    <file>../icon/insta.ico</file>
+    <file>../icon/list.ico</file>
+    <file>../icon/playlist.ico</file>
+    <file>../icon/mgara.ico</file>
+    <file>../icon/notify.ico</file>
+    <file>../icon/power.ico</file>
+    <file>../icon/scorpion.ico</file>
+    <file>../icon/setting.ico</file>
+    <file>../icon/verified.ico</file>
+    <file>../icon/youtube.ico</file>
+    <file>../icon/youtube2.ico</file>
+    <file>../icon/youtubes.ico</file>
+    <file>../icon/youtubelogo.ico</file>
+  </qresource>
+</RCC>
